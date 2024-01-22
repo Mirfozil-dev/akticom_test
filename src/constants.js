@@ -1,0 +1,1 @@
+export const API_URL = 'https://65acf610adbd5aa31bdfd543.mockapi.io/akticom'
